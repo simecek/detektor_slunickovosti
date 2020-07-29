@@ -1,2 +1,13 @@
-# detektor_slunickovosti
-Sentiment classifier for Czech language (trained on CSFD) as a simple we app
+# Detektor sluníčkovosti
+
+Demonstrační skript z [Czech-ULMFiT](https://github.com/simecek/Czech-ULMFiT) ve formě minimalistické webové splikace pro Voila.
+
+Spustit na Binderu (nutno vyčkat než se vytvoří docker image):  
+https://mybinder.org/v2/gh/simecek/detektor_slunickovosti/master?urlpath=%2Fvoila%2Frender%2Fslunicko.ipynb
+
+Spustit lokálně v nově vytvořeném environmentu:
+```
+  pip install -r requirements.txt
+  voila slunicko.ipynb
+```
+
