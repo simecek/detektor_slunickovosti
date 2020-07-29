@@ -23,7 +23,7 @@ Použití klasifikátoru je demonstrováno v tomto [colab notebooku](https://col
 
 ### ipywidgets
 
-*IPyWidgets* umožňují přidat do Jupyter notebooku HTML elementy, jako tlačítko nebo textový vstup, a interaktivitu (když se zmáčkne tlačítko, spušt tuhle Python funkci na textový vstup a výsledkem přepiš textový výstup). Jak jsou použity zde se můžete podívat na Pozor, *IPyWidgets* nefungují v Google Colabu.
+*IPyWidgets* umožňují přidat do Jupyter notebooku HTML elementy, jako tlačítko nebo textový vstup, a interaktivitu (když se zmáčkne tlačítko, spusť tuhle Python funkci na textový vstup a výsledkem přepiš textový výstup). Jak jsou použity zde se můžete podívat do [slunicko.ipynb](https://github.com/simecek/detektor_slunickovosti/blob/master/slunicko.ipynb). Pozor, *IPyWidgets* nefungují v Google Colabu.
 
 ### voila
 
