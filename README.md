@@ -13,7 +13,7 @@ Spustit lokálně v nově vytvořeném environmentu:
 
 ## Jak to funguje?
 
-Potkává se tu několik nástrojů, popořadě [fastai](https://docs.fast.ai/) (ta se stará o samotnou klasifikaci), [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) (tlačítka, textová obrast, interaktivita), [voila](https://voila.readthedocs.io/en/stable/using.html) (promění Jupyter notebook na webovou stránku) a [mybinder](https://mybinder.org/) (hostuje Jupyter notebook a tedy i tuto webovou stránku).
+Potkává se tu několik nástrojů, popořadě [fastai](https://docs.fast.ai/) (ta se stará o samotnou klasifikaci), [ipywidgets](https://ipywidgets.readthedocs.io/en/latest/) (tlačítka, textová oblast, interaktivita), [voila](https://voila.readthedocs.io/en/stable/using.html) (promění Jupyter notebook na webovou stránku) a [mybinder](https://mybinder.org/) (hostuje Jupyter notebook a tedy i tuto webovou stránku).
 
 ### fastai klasifikátor
 
