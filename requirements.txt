@@ -1,0 +1,7 @@
+voila
+torch==1.5.1
+fastai==1.0.61
+pillow<7
+packaging
+ipywidgets==7.5.1
+sentencepiece==0.1.91
