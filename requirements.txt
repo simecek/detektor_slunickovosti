@@ -1,5 +1,5 @@
 voila
-torch==1.5.1
+torch==1.13.1
 fastai==1.0.61
 pillow<7
 packaging
